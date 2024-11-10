@@ -35,7 +35,7 @@ const Newsapp = () => {
           <h1> News Application </h1>
         </div>
         <ul>
-          <a>Trending Latest News</a>
+          <a>Trending Latest News today</a>
         </ul>
 
         <div className="searchBar">
